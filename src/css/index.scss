@@ -1,0 +1,12 @@
+@import 'reset';
+
+html{
+  height: 100%;
+}
+
+body{
+  font-family: sans-serif;
+  display: grid;
+  place-content: center;
+  min-height: 100%;
+}
